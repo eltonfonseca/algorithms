@@ -28,9 +28,10 @@ $: gcc -o main main.c lib.o
 
 | Algorithm               | C | PHP | Java | JavaScript | Ruby | Python | C# |
 |:------------------------|:--|:----|:-----|:-----------|:-----|:-------|:---|
-| Linear Search           | [C](/c/linearSearch.c) | PHP | Java | JavaScript | Ruby | Python | C# |
-| Linear Search Recursive | C | PHP | Java | JavaScript | Ruby | Python | C# |
-| Binary Search           | C | PHP | Java | JavaScript | Ruby | Python | C# |
+| Linear Search           | [C](/c/linearSearch.c) | [PHP](/php/linearSearch.php) | [Java](/java/linearSearch) | JavaScript | Ruby | [Python](/python/linearSearch.py) | C# |
+| Linear Search Recursive | [C](/c/linearSearchRecursive.c) | PHP | Java | JavaScript | Ruby | Python | C# |
+| Binary Search           | [C](/c/binarySearch.c) | PHP | Java | JavaScript | Ruby | Python | C# |
+| Binary Search Recursive | [C](/c/binarySearchRecursive.c) | PHP | Java | JavaScript | Ruby | Python | C# |
 
 ***
 ### Delevoper 
