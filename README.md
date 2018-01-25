@@ -11,15 +11,17 @@ $: gcc -o lib.o -c <library>.c
 $: gcc -o main main.c lib.o
 ```
 
-| Algorithm                 |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-|:--------------------------|:--- | -----:| ---: | ---------: | ---: | -----: | ---: |
-| Stack (LIFO)              |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| Queue (FIFO)              |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| Singly Linked List        |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| Doubly Linked List        |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| Singly Circle Linked List |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| Doubly Circle Linked List |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| Tree                      |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Algorithm                           |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+|:------------------------------------|:--- | -----:| ---: | ---------: | ---: | -----: | ---: |
+| Stack (LIFO)                        | [C](/c/stack)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Queue (FIFO)                        | [C](/c/queue)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Singly Linked List                  | [C](/c/lse)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Singly Linked List (With Ordenation)| [C](/c/lseo) |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Doubly Linked List                  | [C](/c/lde)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Doubly Linked List (With Ordenation)| [C](/c/ldeo) |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Singly Circle Linked List           | [C](/c/cse)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Doubly Circle Linked List           | [C](/c/cde)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+| Tree                                | [C](/c/tree)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
 
 ***
 ### Delevoper 
