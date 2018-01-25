@@ -1,7 +1,5 @@
 /*
-*
 * Author: Elton Fonseca
-*
 */
 
 #include <stdio.h>
