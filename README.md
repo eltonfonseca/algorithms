@@ -12,7 +12,7 @@ $: gcc -o main main.c lib.o
 ```
 
 | Algorithm                 |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
-| -------------------------:|:--- | -----:| ---: | ---------: | ---: | -----: | ---: |
+|:--------------------------|:--- | -----:| ---: | ---------: | ---: | -----: | ---: |
 | Stack (LIFO)              |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
 | Queue (FIFO)              |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
 | Singly Linked List        |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
