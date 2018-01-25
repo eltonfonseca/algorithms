@@ -6,6 +6,7 @@
 
 ##### Usage
 
+> Language C
 ```
 $: gcc -o lib.o -c <library>.c
 $: gcc -o main main.c lib.o
@@ -22,6 +23,14 @@ $: gcc -o main main.c lib.o
 | Singly Circle Linked List           | [C](/c/cse)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
 | Doubly Circle Linked List           | [C](/c/cde)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
 | Tree                                | [C](/c/tree)  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
+
+### Search Algorithms
+
+| Algorithm               | C | PHP | Java | JavaScript | Ruby | Python | C# |
+|:------------------------|:--|:----|:-----|:-----------|:-----|:-------|:---|
+| Linear Search           | [C](/c/linearSearch.c) | PHP | Java | JavaScript | Ruby | Python | C# |
+| Linear Search Recursive | C | PHP | Java | JavaScript | Ruby | Python | C# |
+| Binary Search           | C | PHP | Java | JavaScript | Ruby | Python | C# |
 
 ***
 ### Delevoper 
