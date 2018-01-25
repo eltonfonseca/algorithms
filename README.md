@@ -3,7 +3,6 @@
 
 ### Data Structures
 
-| Algorithm        |                      Language                          |
 | ---------------- |:--- | -----:| ---: | ---------: | ---: | -----: | ---: |
 | Stack            |  C  |  PHP  | Java | JavaScript | Ruby | Python |  C#  |
 
