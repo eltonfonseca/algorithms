@@ -8,7 +8,6 @@
 #include <string.h>
 
 int search(int *array, int size, int value);
-void help();
 
 int main(void)
 {
