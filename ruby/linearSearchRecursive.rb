@@ -1,4 +1,4 @@
-#   Linear Search Algorithm in Ruby
+#   Linear Search Recursive Algorithm in Ruby
 #
 #   Author: Elton Fonseca
 #
