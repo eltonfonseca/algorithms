@@ -30,8 +30,8 @@ $: gcc -o main main.c lib.o
 |:------------------------|:--|:----|:-----|:-----------|:-----|:-------|
 | Linear Search           | [C](/c/linearSearch.c) | [PHP](/php/linearSearch.php) | [Java](/java/linearSearch) | [JavaScript](/javascript/linearSearch.js) | [Ruby](/ruby/linearSearch.rb) | [Python](/python/linearSearch.py) |
 | Linear Search Recursive | [C](/c/linearSearchRecursive.c) | [PHP](/c/linearSearchRecursive.php) | [Java](/java/linearSearchRecursive) | [JavaScript](/javascript/linearSearchRecursive.js) | [Ruby](/ruby/linearSearchRecursive.rb) | [Python](/python/linearSearchRecursive.py) |
-| Binary Search           | [C](/c/binarySearch.c) | PHP | Java | JavaScript | Ruby | Python |
-| Binary Search Recursive | [C](/c/binarySearchRecursive.c) | PHP | Java | JavaScript | Ruby | Python |
+| Binary Search           | [C](/c/binarySearch.c) | [PHP](/php/binarySearch.php) | [Java](/java/binarySearch) | [JavaScript](/javascript/binarySearch.js) | [Ruby](/ruby/binarySearch.rb) | Python |
+| Binary Search Recursive | [C](/c/binarySearchRecursive.c) | [PHP](/php/binarySearchRecursive.php) | [Java](/java/binarySearchRecursive) | [JavaScript](/javascript/binarySearchRecursive.js) | [Ruby](/ruby/binarySearchRecursive.rb) | Python |
 
 ***
 ### Delevoper 
