@@ -6,30 +6,30 @@
 
 #include <stdio.h>
 
-int search(int *array, int leftHalf, int rightHalf, int value);
+int search(int *array, int low, int high, int element);
 
 int main(void)
 {
     int array[10] = {1,2,3,4,5,6,7,8,9,10};
     
-    if(search(array, 0, 9, 7))
+    if(search(array, 0, 10, 7))
         puts("Find!");
     else
         puts("Not Found!") ;
 }
 
-int search(int *array, int leftHalf, int rightHalf, int value)
+int search(int *array, int low, int high, int element)
 {
-    while(leftHalf <= rightHalf)
+    while(low <= high)
     {
-        int mid = leftHalf + (rightHalf - leftHalf) / 2;
+        int middle = low + (high - low) / 2;
 
-        if(array[mid] == value)
+        if(array[middle] == element)
             return 1;
-        else if(array[mid] < value)
-            leftHalf = mid + 1;
+        else if(array[middle] < element)
+            low = middle + 1;
         else
-            rightHalf = mid - 1;
+            high = middle - 1;
     }
     return 0;
 }
