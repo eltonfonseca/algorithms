@@ -8,18 +8,18 @@
             print("Not Found!\n");
     }
 
-    function search($array, $left, $right, $value)
+    function search($array, $low, $high, $element)
     {
-        while($left < $right)
+        while($low < $high)
         {
-            $mid = $left + ($right - $left) / 2;
-
-            if($array[$mid] == $value)
+            $middle = $low + ($high - $low) / 2;
+            print($high."\n");
+            if($array[$middle] == $element)
                 return 1;
-            else if($array[$mid] < $value)
-                $left = $mid + 1;
+            else if($array[$middle] < $element)
+                $low = $middle + 1;
             else 
-                $right = $mid - 1;
+                $high = $middle - 1;
         }
         return 0;
     }
