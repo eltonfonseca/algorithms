@@ -1,18 +1,8 @@
 ## Algorithms and Data Structures
 > Algorithms and Data Structures in Language C, PHP, Java, JavaScript, Ruby and Python!
 
-build | in progress
-
 ### Data Structures
 > Abstract Type Data Implementation
-
-##### Usage
-
-> Language C
-```
-$: gcc -o lib.o -c <library>.c
-$: gcc -o main main.c lib.o
-```
 
 | Algorithm                           |  C  |  PHP  | Java | JavaScript | Ruby | Python |
 |:------------------------------------|:--- | -----:| ---: | ---------: | ---: | -----: |
@@ -27,6 +17,7 @@ $: gcc -o main main.c lib.o
 | Tree                                | [C](/c/tree)  |  PHP  | Java | JavaScript | Ruby | Python |
 
 ### Search Algorithms
+> Note: Some algorithms need an ordered array to work correctly
 
 | Algorithm               | C | PHP | Java | JavaScript | Ruby | Python |
 |:------------------------|:--|:----|:-----|:-----------|:-----|:-------|
@@ -35,7 +26,35 @@ $: gcc -o main main.c lib.o
 | Binary Search           | [C](/c/binarySearch.c) | [PHP](/php/binarySearch.php) | [Java](/java/binarySearch) | [JavaScript](/javascript/binarySearch.js) | [Ruby](/ruby/binarySearch.rb) | [Python](/python/binarySearch.py) |
 | Binary Search Recursive | [C](/c/binarySearchRecursive.c) | [PHP](/php/binarySearchRecursive.php) | [Java](/java/binarySearchRecursive) | [JavaScript](/javascript/binarySearchRecursive.js) | [Ruby](/ruby/binarySearchRecursive.rb) | [Python](/python/binarySearchRecursive.py) |
 | Graph Search (DFS adn BFS) | [C](/c/graphSearch)  | PHP | Java | JavaScript | Ruby | Python |
-| Sentinel Linear Search  | C | PHP | Java | JavaScript | Ruby | Python |
+| Sentinel Linear Search  | [C](/c/sentinelLinearSearch.c) | PHP | Java | JavaScript | Ruby | Python |
+
+### Miscellaneous
+> Some famous algorithms used in studies
+
+| Algorithm                      | C | PHP | Java | JavaScript | Ruby | Python |
+|:-------------------------------|:--|:----|:-----|:-----------|:-----|:-------|
+| Dijkstra Algorithm             | C | PHP | Java | JavaScript | Ruby | Python |
+| Floyd Warshall Algorithm       | C | PHP | Java | JavaScript | Ruby | Python |
+| Fibonacci                      | C | PHP | Java | JavaScript | Ruby | Python |
+| Factorial                      | C | PHP | Java | JavaScript | Ruby | Python |
+| Factorial Recursive            | C | PHP | Java | JavaScript | Ruby | Python |
+| Hanoi Tower                    | C | PHP | Java | JavaScript | Ruby | Python |
+| Kings Problems                 | C | PHP | Java | JavaScript | Ruby | Python |
+| Deterministic Finite Automaton | C | PHP | Java | JavaScript | Ruby | Python |
+| Caesar Cipher                  | C | PHP | Java | JavaScript | Ruby | Python |
+| Exponentiation                 | C | PHP | Java | JavaScript | Ruby | Python |
+| Exponentiation Recursive       | C | PHP | Java | JavaScript | Ruby | Python |
+| Travelling Salesman            | C | PHP | Java | JavaScript | Ruby | Python |
+| Hamiltonian Cycle              | C | PHP | Java | JavaScript | Ruby | Python |
+| Knight's Tour                  | C | PHP | Java | JavaScript | Ruby | Python |
+| Maximum Recursive              | C | PHP | Java | JavaScript | Ruby | Python |
+| Maximum and Minimum            | C | PHP | Java | JavaScript | Ruby | Python |
+| Maximum and Minimum Recursive  | C | PHP | Java | JavaScript | Ruby | Python |
+| Dining Philosophers Problem    | C | PHP | Java | JavaScript | Ruby | Python |
+| Sleeping Barber Problem        | C | PHP | Java | JavaScript | Ruby | Python |
+| Producer and Consumer Problem  | C | PHP | Java | JavaScript | Ruby | Python |
+| Linux cp Command               | C | PHP | Java | JavaScript | Ruby | Python |
+| Mini-Shell                     | C | PHP | Java | JavaScript | Ruby | Python |
 
 ***
 ### Delevoper 
