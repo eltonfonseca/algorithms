@@ -35,12 +35,12 @@
 |:-------------------------------|:--|:----|:-----|:-----------|:-----|:-------|
 | Dijkstra Algorithm             | C | PHP | Java | JavaScript | Ruby | Python |
 | Floyd Warshall Algorithm       | C | PHP | Java | JavaScript | Ruby | Python |
-| Fibonacci                      | [C](/c/fibonacci.c) | [PHP](/php/fibonacci.php) | [Java](/java/fibonacci) | [JavaScript](/javascript/fibonacci.js) | [Ruby](/ruby/fibonacci.rb) | Python |
-| Fibonacci Recursive            | [C](/c/fibonacciRecursive.c) | [PHP](/php/fibonacciRecursive.php) | [Java](/java/fibonacciRecursive) | [JavaScript](/javascript/fibonacciRecursive.js) | [Ruby](/ruby/fibonacciRecursive.rb) | Python |
-| Factorial                      | C | PHP | Java | JavaScript | Ruby | Python |
-| Factorial Recursive            | C | PHP | Java | JavaScript | Ruby | Python |
+| Fibonacci                      | [C](/c/fibonacci.c) | [PHP](/php/fibonacci.php) | [Java](/java/fibonacci) | [JavaScript](/javascript/fibonacci.js) | [Ruby](/ruby/fibonacci.rb) | [Python](/python/fibonacci.py) |
+| Fibonacci Recursive            | [C](/c/fibonacciRecursive.c) | [PHP](/php/fibonacciRecursive.php) | [Java](/java/fibonacciRecursive) | [JavaScript](/javascript/fibonacciRecursive.js) | [Ruby](/ruby/fibonacciRecursive.rb) | [Python](/python/fibonacciRecursive.py) |
+| Factorial                      | [C](/c/factorial.c) | [PHP](/php/factorial.php) | [Java](/java/factorial) | [JavaScript](/javascript/factorial.js) | [Ruby](/ruby/factorial.rb) | [Python](/python/factorial.py) |
+| Factorial Recursive            | [C](/c/factorialRecursive.c) | [PHP](/php/factorialRecursive.php) | [Java](/java/factorialRecursive) | [JavaScript](/javascript/factorialRecursive.js) | [Ruby](/ruby/factorialRecursive.rb) | [Python](/python/factorialRecursive.py) |
 | Hanoi Tower                    | C | PHP | Java | JavaScript | Ruby | Python |
-| Kings Problems                 | C | PHP | Java | JavaScript | Ruby | Python |
+| Kings Problems                 | [C](/c/kings.c) | [PHP](/php/kings.php) | [Java](/java/Kings.java) | [JavaScript](/javascript/kings.js) | [Ruby](/ruby/kings.rb) | [Python](/python/kings.py) |
 | Deterministic Finite Automaton | C | PHP | Java | JavaScript | Ruby | Python |
 | Caesar Cipher                  | [C](/c/caesarCipher.c) | PHP | Java | JavaScript | Ruby | Python |
 | Exponentiation                 | C | PHP | Java | JavaScript | Ruby | Python |
