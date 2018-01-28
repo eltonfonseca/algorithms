@@ -1,7 +1,5 @@
-## Algorithms and Data Structures
-> Algorithms and Data Structures in Language C, PHP, Java, JavaScript, Ruby and Python!
-
-<a href="https://github.com/eltonfonseca/algorithms/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/></a>
+## Algorithms and Data Structures <a href="https://github.com/eltonfonseca/algorithms/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/></a>
+> Algorithms and Data Structures in Language C, PHP, Java, JavaScript, Ruby and Python! 
 
 ### Data Structures
 > Abstract Type Data Implementation
