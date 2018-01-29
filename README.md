@@ -8,10 +8,9 @@
 ### Data Structures
 > Abstract Type Data Implementation
 
-<center>
   
 | Algorithm                           |  C  |  PHP  | Java | JavaScript | Ruby | Python |
-|:------------------------------------|:--- | -----:| ---: | ---------: | ---: | -----: |
+|:------------------------------------|:---:|:-----:|:----:|:----------:|:----:|:------:|
 | Stack (LIFO)                        | [<center><img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png"></center>](/c/stack)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Queue (FIFO)                        | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/queue)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Singly Linked List                  | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/lse)  |  PHP  | Java | JavaScript | Ruby | Python |
@@ -22,15 +21,11 @@
 | Doubly Circle Linked List           | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/cde)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Tree                                | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/tree)  |  PHP  | Java | JavaScript | Ruby | Python |
 
-</center>
-
 ### Search Algorithms
 > Note: Some algorithms need an ordered array to work correctly
-
-<center>
   
 | Algorithm               | C | PHP | Java | JavaScript | Ruby | Python |
-|:------------------------|:--|:----|:-----|:-----------|:-----|:-------|
+|:------------------------|:-:|:---:|:----:|:----------:|:----:|:------:|
 | Linear Search           | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/linearSearch.c) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/php/linearSearch.php) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/java/linearSearch) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/javascript/linearSearch.js) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/ruby/linearSearch.rb) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/python/linearSearch.py) |
 | Linear Search Recursive | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/linearSearchRecursive.c) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/php/linearSearchRecursive.php) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/java/linearSearchRecursive) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/javascript/linearSearchRecursive.js) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/ruby/linearSearchRecursive.rb) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/python/linearSearchRecursive.py) |
 | Binary Search           | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/binarySearch.c) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/php/binarySearch.php) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/java/binarySearch) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/javascript/binarySearch.js) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/ruby/binarySearch.rb) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/python/binarySearch.py) |
@@ -38,14 +33,11 @@
 | Graph Search (DFS adn BFS) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/graphSearch)  | PHP | Java | JavaScript | Ruby | Python |
 | Sentinel Linear Search  | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/sentinelLinearSearch.c) | PHP | Java | JavaScript | Ruby | Python |
 
-</center>
 ### Miscellaneous
 > Some famous algorithms used in studies
-
-<center>
   
 | Algorithm                      | C | PHP | Java | JavaScript | Ruby | Python |
-|:-------------------------------|:--|:----|:-----|:-----------|:-----|:-------|
+|:-------------------------------|:-:|:---:|:----:|:----------:|:----:|:------:|
 | Dijkstra Algorithm             | C | PHP | Java | JavaScript | Ruby | Python |
 | Floyd Warshall Algorithm       | C | PHP | Java | JavaScript | Ruby | Python |
 | Fibonacci                      | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/fibonacci.c) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/php/fibonacci.php) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/java/fibonacci) | [<center><img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png"></center>](/javascript/fibonacci.js) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/ruby/fibonacci.rb) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/python/fibonacci.py) |
@@ -70,7 +62,6 @@
 | Linux cp Command               | C | PHP | Java | JavaScript | Ruby | Python |
 | Mini-Shell                     | C | PHP | Java | JavaScript | Ruby | Python |
 
-</center>
 
 ***
 ### Delevoper 
