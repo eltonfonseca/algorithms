@@ -10,7 +10,7 @@
 
 | Algorithm                           |  C  |  PHP  | Java | JavaScript | Ruby | Python |
 |:------------------------------------|:--- | -----:| ---: | ---------: | ---: | -----: |
-| Stack (LIFO)                        | [<img src="https://png.icons8.com/ios/50/000000/ok-filled.png">](/c/stack)  |  PHP  | Java | JavaScript | Ruby | Python |
+| Stack (LIFO)                        | [<img src="https://png.icons8.com/ios/30/000000/ok-filled.png">](/c/stack)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Queue (FIFO)                        | [C](/c/queue)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Singly Linked List                  | [C](/c/lse)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Singly Linked List (With Ordenation)| [C](/c/lseo) |  PHP  | Java | JavaScript | Ruby | Python |
