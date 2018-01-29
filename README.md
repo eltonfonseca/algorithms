@@ -9,6 +9,7 @@
 > Abstract Type Data Implementation
 
 <center>
+  
 | Algorithm                           |  C  |  PHP  | Java | JavaScript | Ruby | Python |
 |:------------------------------------|:--- | -----:| ---: | ---------: | ---: | -----: |
 | Stack (LIFO)                        | [<center><img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png"></center>](/c/stack)  |  PHP  | Java | JavaScript | Ruby | Python |
@@ -27,6 +28,7 @@
 > Note: Some algorithms need an ordered array to work correctly
 
 <center>
+  
 | Algorithm               | C | PHP | Java | JavaScript | Ruby | Python |
 |:------------------------|:--|:----|:-----|:-----------|:-----|:-------|
 | Linear Search           | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/linearSearch.c) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/php/linearSearch.php) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/java/linearSearch) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/javascript/linearSearch.js) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/ruby/linearSearch.rb) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/python/linearSearch.py) |
@@ -35,11 +37,13 @@
 | Binary Search Recursive | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/binarySearchRecursive.c) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/php/binarySearchRecursive.php) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/java/binarySearchRecursive) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/javascript/binarySearchRecursive.js) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/ruby/binarySearchRecursive.rb) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/python/binarySearchRecursive.py) |
 | Graph Search (DFS adn BFS) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/graphSearch)  | PHP | Java | JavaScript | Ruby | Python |
 | Sentinel Linear Search  | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/sentinelLinearSearch.c) | PHP | Java | JavaScript | Ruby | Python |
+
 </center>
 ### Miscellaneous
 > Some famous algorithms used in studies
 
 <center>
+  
 | Algorithm                      | C | PHP | Java | JavaScript | Ruby | Python |
 |:-------------------------------|:--|:----|:-----|:-----------|:-----|:-------|
 | Dijkstra Algorithm             | C | PHP | Java | JavaScript | Ruby | Python |
@@ -65,6 +69,7 @@
 | Producer and Consumer Problem  | C | PHP | Java | JavaScript | Ruby | Python |
 | Linux cp Command               | C | PHP | Java | JavaScript | Ruby | Python |
 | Mini-Shell                     | C | PHP | Java | JavaScript | Ruby | Python |
+
 </center>
 
 ***
