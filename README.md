@@ -33,7 +33,7 @@
 | Graph Search (DFS adn BFS) | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/graphSearch)  | PHP | Java | JavaScript | Ruby | Python |
 | Sentinel Linear Search  | [<img src="https://png.icons8.com/ios/25/27ae60/ok-filled.png">](/c/sentinelLinearSearch.c) | PHP | Java | JavaScript | Ruby | Python |
 
-### Ordenation Algorithms
+### Sorting Algorithms
 
 | Algorithm      | C | PHP | Java | JavaScript | Ruby | Python |
 |:---------------|:-:|:---:|:----:|:----------:|:----:|:------:|
