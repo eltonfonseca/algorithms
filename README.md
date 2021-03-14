@@ -11,7 +11,7 @@
   
 | Algorithm                           |  C  |  PHP  | Java | JavaScript | Ruby | Python |
 |:------------------------------------|:---:|:-----:|:----:|:----------:|:----:|:------:|
-| Stack (LIFO)                        | [:heavy_check_mark:](/c/stack)  |  PHP  | Java | JavaScript | Ruby | Python |
+| Stack (LIFO)                        | [:heavy_check_mark:](/c/stack)  |  PHP  | Java | JavaScript | [:heavy_check_mark:](/ruby/stack) | Python |
 | Queue (FIFO)                        | [:heavy_check_mark:](/c/queue)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Singly Linked List                  | [:heavy_check_mark:](/c/lse)  |  PHP  | Java | JavaScript | Ruby | Python |
 | Singly Linked List (With Ordenation)| [:heavy_check_mark:](/c/lseo) |  PHP  | Java | JavaScript | Ruby | Python |
