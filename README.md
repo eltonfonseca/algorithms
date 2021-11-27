@@ -62,6 +62,7 @@
 | Exponentiation Recursive       | [:heavy_check_mark:](/c/exponentiationRecursive.c) | PHP | Java | [:heavy_check_mark:](/javascript/exponentiationRecursive.js) | [:heavy_check_mark:](/ruby/exponentiationRecursive.rb) | [:heavy_check_mark:](/python/exponentiationRecursive.py) |
 | Travelling Salesman            | C | PHP | Java | JavaScript | Ruby | Python |
 | Hamiltonian Cycle              | C | PHP | Java | JavaScript | Ruby | Python |
+| Duplicate Elements in Array    | C | PHP | Java | JavaScript | [:heavy_check_mark:](/ruby/find_duplicates.rb) | Python |
 | Knight's Tour                  | C | PHP | Java | JavaScript | Ruby | Python |
 | Maximum Recursive              | C | PHP | Java | JavaScript | Ruby | Python |
 | Maximum and Minimum            | C | PHP | Java | JavaScript | Ruby | Python |
