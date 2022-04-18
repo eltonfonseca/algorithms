@@ -37,7 +37,7 @@
 
 | Algorithm      | C | PHP | Java | JavaScript | Ruby | Python |
 |:---------------|:-:|:---:|:----:|:----------:|:----:|:------:|
-| Bubble Sort    | C | PHP | Java | JavaScript | Ruby | Python |
+| Bubble Sort    | [:heavy_check_mark:](/c/bubbleSort.c) | PHP | Java | JavaScript | Ruby | Python |
 | Quick Sort     | C | PHP | Java | JavaScript | Ruby | Python |
 | Selection Sort | C | PHP | Java | JavaScript | Ruby | Python |
 | Merge Sort     | C | PHP | Java | JavaScript | Ruby | Python |
